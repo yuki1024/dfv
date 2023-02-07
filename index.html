@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="dfv">
+	<title>Data Flow Visualizer</title>
+	<link rel="stylesheet" href="./dfv.css">
+</head>
+<body>
+	<div id="title">Data Flow Visualizer</div>
+<!--
+	<div id="subtitle">See <a href="https://github.com/yuki1024/dvf">github</a> for details</div>
+-->
+	<label for="import_button" id="import_button_label">
+		Import<input type="file" id="import_button" />
+	</label>
+	<button id="export_button">Export</button>
+	<button id="add_blank_button">Add a blank core</button>
+	<button id="hrv_button">H Reverse</button>
+	<button id="vrv_button">V Reverse</button>
+	<button id="cmt_button">Write CMT</button>
+	<div id="all_body"></div>
+	<script type="module" src="./dfv.js"></script>
+</body>
+</html>
+

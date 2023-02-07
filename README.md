@@ -8,7 +8,7 @@
 
 ## Usage
 - Look into pmon.c and batch.py
-- Just access to https://yuki1024.github.io/dfw/
+- Just access to https://yuki1024.github.io/dfv/
 - There are some sample files in sample_data dir just to try also
 - For development: Install "Web Server for Chrome" Extension to your Chrome Browser. Set up a private instant server, then select the directory includes index.html.
 

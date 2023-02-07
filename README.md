@@ -1,6 +1,6 @@
 # Data Flow Visualizer
 
-- Data flow visualizer in architecture topology base on Performance counters
+- Data flow visualizer in architecture topology based on Performance counters
 - Find where logical cores numbers are physically located
 - Currently, only for Intel processors. e.g. Xeon Phi, Xeon-SP series)
 - Implemented in C, Python, Javascript (+HTML+CSS)
@@ -12,6 +12,6 @@
 - There are some sample files in sample_data dir just to try also
 - For development: Install "Web Server for Chrome" Extension to your Chrome Browser. Set up a private instant server, then select the directory includes index.html.
 
-## dfv looks like this
+## Looks like this
 <img src="/img/dfw0.png" width="400">
 
